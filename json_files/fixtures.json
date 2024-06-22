@@ -1,0 +1,4777 @@
+{
+    "get": "fixtures",
+    "parameters": {
+        "league": "128",
+        "from": "2023-12-31",
+        "to": "2024-06-22",
+        "season": "2024"
+    },
+    "errors": [],
+    "results": 70,
+    "paging": {
+        "current": 1,
+        "total": 1
+    },
+    "response": [
+        {
+            "fixture": {
+                "id": 1158660,
+                "referee": "Nicolas Ramirez, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-11T22:45:00+00:00",
+                "timestamp": 1715467500,
+                "periods": {
+                    "first": 1715467500,
+                    "second": 1715471100
+                },
+                "venue": {
+                    "id": 19570,
+                    "name": "Estadio M\u00e2s Monumental",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 435,
+                    "name": "River Plate",
+                    "logo": "https://media.api-sports.io/football/teams/435.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1065,
+                    "name": "Central Cordoba de Santiago",
+                    "logo": "https://media.api-sports.io/football/teams/1065.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158661,
+                "referee": "Nazareno Arasa, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-12T20:45:00+00:00",
+                "timestamp": 1715546700,
+                "periods": {
+                    "first": 1715546700,
+                    "second": 1715550300
+                },
+                "venue": {
+                    "id": 45,
+                    "name": "Estadio Julio C\u00e9sar Villagra",
+                    "city": "Ciudad de C\u00f3rdoba, Provincia de C\u00f3rdoba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 440,
+                    "name": "Belgrano Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/440.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 4,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "fulltime": {
+                    "home": 4,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158662,
+                "referee": "H. Mastr\u00e1ngelo",
+                "timezone": "UTC",
+                "date": "2024-05-11T00:15:00+00:00",
+                "timestamp": 1715386500,
+                "periods": {
+                    "first": 1715386500,
+                    "second": 1715390100
+                },
+                "venue": {
+                    "id": 37,
+                    "name": "Estadio Diego Armando Maradona",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 437,
+                    "name": "Rosario Central",
+                    "logo": "https://media.api-sports.io/football/teams/437.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158663,
+                "referee": "Carlos Andres Gariano, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-12T18:30:00+00:00",
+                "timestamp": 1715538600,
+                "periods": {
+                    "first": 1715538600,
+                    "second": 1715542200
+                },
+                "venue": {
+                    "id": 112,
+                    "name": "Estadio Jos\u00e9 Dellagiovanna",
+                    "city": "San Fernando, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 452,
+                    "name": "Tigre",
+                    "logo": "https://media.api-sports.io/football/teams/452.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 450,
+                    "name": "Estudiantes L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/450.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158664,
+                "referee": "Leandro Rey Hilfer, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-12T18:30:00+00:00",
+                "timestamp": 1715538600,
+                "periods": {
+                    "first": 1715538600,
+                    "second": 1715542200
+                },
+                "venue": {
+                    "id": 66,
+                    "name": "Estadio Guillermo Laza",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 460,
+                    "name": "San Lorenzo",
+                    "logo": "https://media.api-sports.io/football/teams/460.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158665,
+                "referee": "Sebastian Zunino, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-12T20:45:00+00:00",
+                "timestamp": 1715546700,
+                "periods": {
+                    "first": 1715546700,
+                    "second": 1715550300
+                },
+                "venue": {
+                    "id": 88,
+                    "name": "Estadio Ciudad de Lan\u00fas - N\u00e9stor D\u00edaz P\u00e9rez",
+                    "city": "Lan\u00fas, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 446,
+                    "name": "Lanus",
+                    "logo": "https://media.api-sports.io/football/teams/446.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 473,
+                    "name": "Independ. Rivadavia",
+                    "logo": "https://media.api-sports.io/football/teams/473.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158666,
+                "referee": "Silvio Trucco, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-11T18:30:00+00:00",
+                "timestamp": 1715452200,
+                "periods": {
+                    "first": 1715452200,
+                    "second": 1715455800
+                },
+                "venue": {
+                    "id": 80,
+                    "name": "Estadio Malvinas Argentinas",
+                    "city": "Mendoza, Provincia de Mendoza"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 439,
+                    "name": "Godoy Cruz",
+                    "logo": "https://media.api-sports.io/football/teams/439.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 2432,
+                    "name": "Barracas Central",
+                    "logo": "https://media.api-sports.io/football/teams/2432.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158667,
+                "referee": "Sebastian Nicolas Martinez, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-10T22:00:00+00:00",
+                "timestamp": 1715378400,
+                "periods": {
+                    "first": 1715378400,
+                    "second": 1715382000
+                },
+                "venue": {
+                    "id": 107,
+                    "name": "Estadio Eva Per\u00f3n de Jun\u00edn",
+                    "city": "Jun\u00edn, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 478,
+                    "name": "Instituto Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/478.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158668,
+                "referee": "Fernando Espinoza, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-14T00:00:00+00:00",
+                "timestamp": 1715644800,
+                "periods": {
+                    "first": 1715644800,
+                    "second": 1715648400
+                },
+                "venue": {
+                    "id": 1933,
+                    "name": "Estadio 15 de Abril",
+                    "city": "Ciudad de Santa Fe, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 441,
+                    "name": "Union Santa Fe",
+                    "logo": "https://media.api-sports.io/football/teams/441.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 449,
+                    "name": "Banfield",
+                    "logo": "https://media.api-sports.io/football/teams/449.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158669,
+                "referee": "Dario Herrera, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-11T17:30:00+00:00",
+                "timestamp": 1715448600,
+                "periods": {
+                    "first": 1715448600,
+                    "second": 1715452200
+                },
+                "venue": {
+                    "id": 82,
+                    "name": "Estadio Tom\u00e1s Adolfo Duc\u00f3",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 445,
+                    "name": "Huracan",
+                    "logo": "https://media.api-sports.io/football/teams/445.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 442,
+                    "name": "Defensa Y Justicia",
+                    "logo": "https://media.api-sports.io/football/teams/442.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158670,
+                "referee": "Franco Acita, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-13T22:00:00+00:00",
+                "timestamp": 1715637600,
+                "periods": {
+                    "first": 1715637600,
+                    "second": 1715641200
+                },
+                "venue": {
+                    "id": 77,
+                    "name": "Estadio Juan Carmelo Zerillo",
+                    "city": "La Plata, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 434,
+                    "name": "Gimnasia L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/434.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 438,
+                    "name": "Velez Sarsfield",
+                    "logo": "https://media.api-sports.io/football/teams/438.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158671,
+                "referee": "A. Merlos",
+                "timezone": "UTC",
+                "date": "2024-05-11T00:15:00+00:00",
+                "timestamp": 1715386500,
+                "periods": {
+                    "first": 1715386500,
+                    "second": 1715390100
+                },
+                "venue": {
+                    "id": 93,
+                    "name": "Estadio Marcelo Alberto Bielsa",
+                    "city": "Rosario, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 457,
+                    "name": "Newells Old Boys",
+                    "logo": "https://media.api-sports.io/football/teams/457.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1064,
+                    "name": "Platense",
+                    "logo": "https://media.api-sports.io/football/teams/1064.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158672,
+                "referee": "Yael Falcon Perez, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-11T20:30:00+00:00",
+                "timestamp": 1715459400,
+                "periods": {
+                    "first": 1715459400,
+                    "second": 1715463000
+                },
+                "venue": {
+                    "id": 7131,
+                    "name": "Estadio Libertadores de Am\u00e9rica",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 453,
+                    "name": "Independiente",
+                    "logo": "https://media.api-sports.io/football/teams/453.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 3
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 3
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158673,
+                "referee": "Pablo Echavarria, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-12T23:15:00+00:00",
+                "timestamp": 1715555700,
+                "periods": {
+                    "first": 1715555700,
+                    "second": 1715559300
+                },
+                "venue": {
+                    "id": 42,
+                    "name": "Estadio Monumental Presidente Jos\u00e9 Fierro",
+                    "city": "San Miguel de Tucum\u00e1n, Provincia de Tucum\u00e1n"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 1"
+            },
+            "teams": {
+                "home": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 451,
+                    "name": "Boca Juniors",
+                    "logo": "https://media.api-sports.io/football/teams/451.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158674,
+                "referee": "Facundo Tello, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-19T23:00:00+00:00",
+                "timestamp": 1716159600,
+                "periods": {
+                    "first": 1716159600,
+                    "second": 1716163200
+                },
+                "venue": {
+                    "id": 2997,
+                    "name": "Estadio \u00danico Madre de Ciudades",
+                    "city": "Santiago del Estero, Prov. de Santiago del Estero"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 1065,
+                    "name": "Central Cordoba de Santiago",
+                    "logo": "https://media.api-sports.io/football/teams/1065.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 451,
+                    "name": "Boca Juniors",
+                    "logo": "https://media.api-sports.io/football/teams/451.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158675,
+                "referee": "Nazareno Arasa, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-19T20:45:00+00:00",
+                "timestamp": 1716151500,
+                "periods": {
+                    "first": 1716151500,
+                    "second": 1716155100
+                },
+                "venue": {
+                    "id": 110,
+                    "name": "Estadio Mario Alberto Kempes",
+                    "city": "Ciudad de C\u00f3rdoba, Provincia de C\u00f3rdoba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158676,
+                "referee": "Leandro Rey Hilfer, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-19T18:30:00+00:00",
+                "timestamp": 1716143400,
+                "periods": {
+                    "first": 1716143400,
+                    "second": 1716147000
+                },
+                "venue": {
+                    "id": 97,
+                    "name": "Estadio Ciudad de Vicente L\u00f3pez",
+                    "city": "Vicente L\u00f3pez, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 1064,
+                    "name": "Platense",
+                    "logo": "https://media.api-sports.io/football/teams/1064.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 453,
+                    "name": "Independiente",
+                    "logo": "https://media.api-sports.io/football/teams/453.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158677,
+                "referee": "Fernando Rapallini, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-21T23:00:00+00:00",
+                "timestamp": 1716332400,
+                "periods": {
+                    "first": 1716332400,
+                    "second": 1716336000
+                },
+                "venue": {
+                    "id": 115,
+                    "name": "Estadio Jos\u00e9 Amalfitani",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 438,
+                    "name": "Velez Sarsfield",
+                    "logo": "https://media.api-sports.io/football/teams/438.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 457,
+                    "name": "Newells Old Boys",
+                    "logo": "https://media.api-sports.io/football/teams/457.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158678,
+                "referee": "Fernando Echenique, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-18T23:00:00+00:00",
+                "timestamp": 1716073200,
+                "periods": {
+                    "first": 1716073200,
+                    "second": 1716076800
+                },
+                "venue": {
+                    "id": 59,
+                    "name": "Estadio Norberto Tito Tomaghello",
+                    "city": "Florencio Varela, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 442,
+                    "name": "Defensa Y Justicia",
+                    "logo": "https://media.api-sports.io/football/teams/442.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 434,
+                    "name": "Gimnasia L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/434.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158679,
+                "referee": "Jorge Balino, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-19T20:45:00+00:00",
+                "timestamp": 1716151500,
+                "periods": {
+                    "first": 1716151500,
+                    "second": 1716155100
+                },
+                "venue": {
+                    "id": 43,
+                    "name": "Estadio Florencio Sol\u00e1",
+                    "city": "Lomas de Zamora, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 449,
+                    "name": "Banfield",
+                    "logo": "https://media.api-sports.io/football/teams/449.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 445,
+                    "name": "Huracan",
+                    "logo": "https://media.api-sports.io/football/teams/445.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158680,
+                "referee": "Sebastian Zunino, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-18T23:30:00+00:00",
+                "timestamp": 1716075000,
+                "periods": {
+                    "first": 1716075000,
+                    "second": 1716078600
+                },
+                "venue": {
+                    "id": 84,
+                    "name": "Estadio Juan Domingo Per\u00f3n",
+                    "city": "Ciudad de C\u00f3rdoba, Provincia de C\u00f3rdoba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 478,
+                    "name": "Instituto Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/478.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 441,
+                    "name": "Union Santa Fe",
+                    "logo": "https://media.api-sports.io/football/teams/441.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158681,
+                "referee": "Yael Falcon Perez, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-19T18:00:00+00:00",
+                "timestamp": 1716141600,
+                "periods": {
+                    "first": 1716141600,
+                    "second": 1716145200
+                },
+                "venue": {
+                    "id": 82,
+                    "name": "Estadio Tom\u00e1s Adolfo Duc\u00f3",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 2432,
+                    "name": "Barracas Central",
+                    "logo": "https://media.api-sports.io/football/teams/2432.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158682,
+                "referee": "Dario Herrera, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-18T18:30:00+00:00",
+                "timestamp": 1716057000,
+                "periods": {
+                    "first": 1716057000,
+                    "second": 1716060600
+                },
+                "venue": {
+                    "id": 83,
+                    "name": "Estadio Juan Bautista Gargantini",
+                    "city": "Mendoza, Provincia de Mendoza"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 473,
+                    "name": "Independ. Rivadavia",
+                    "logo": "https://media.api-sports.io/football/teams/473.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 439,
+                    "name": "Godoy Cruz",
+                    "logo": "https://media.api-sports.io/football/teams/439.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158683,
+                "referee": "Pablo Echavarria, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-20T22:00:00+00:00",
+                "timestamp": 1716242400,
+                "periods": {
+                    "first": 1716242400,
+                    "second": 1716246000
+                },
+                "venue": {
+                    "id": 103,
+                    "name": "Estadio Pedro Bidega\u00edn",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 460,
+                    "name": "San Lorenzo",
+                    "logo": "https://media.api-sports.io/football/teams/460.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 446,
+                    "name": "Lanus",
+                    "logo": "https://media.api-sports.io/football/teams/446.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158684,
+                "referee": "Fernando Espinoza, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-20T22:00:00+00:00",
+                "timestamp": 1716242400,
+                "periods": {
+                    "first": 1716242400,
+                    "second": 1716246000
+                },
+                "venue": {
+                    "id": 12716,
+                    "name": "Estadio Jorge Luis Hirschi",
+                    "city": "La Plata, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 450,
+                    "name": "Estudiantes L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/450.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158685,
+                "referee": "A. Merlos",
+                "timezone": "UTC",
+                "date": "2024-05-21T00:15:00+00:00",
+                "timestamp": 1716250500,
+                "periods": {
+                    "first": 1716250500,
+                    "second": 1716254100
+                },
+                "venue": {
+                    "id": 19391,
+                    "name": "Estadio Gigante de Arroyito",
+                    "city": "Rosario, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 437,
+                    "name": "Rosario Central",
+                    "logo": "https://media.api-sports.io/football/teams/437.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 452,
+                    "name": "Tigre",
+                    "logo": "https://media.api-sports.io/football/teams/452.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158686,
+                "referee": "N. Ram\u00edrez",
+                "timezone": "UTC",
+                "date": "2024-05-21T00:15:00+00:00",
+                "timestamp": 1716250500,
+                "periods": {
+                    "first": 1716250500,
+                    "second": 1716254100
+                },
+                "venue": {
+                    "id": 99,
+                    "name": "Estadio Presidente Juan Domingo Per\u00f3n",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158687,
+                "referee": "Pablo Dovalo, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-18T21:00:00+00:00",
+                "timestamp": 1716066000,
+                "periods": {
+                    "first": 1716066000,
+                    "second": 1716069600
+                },
+                "venue": {
+                    "id": 19570,
+                    "name": "Estadio M\u00e2s Monumental",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 2"
+            },
+            "teams": {
+                "home": {
+                    "id": 435,
+                    "name": "River Plate",
+                    "logo": "https://media.api-sports.io/football/teams/435.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 440,
+                    "name": "Belgrano Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/440.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158688,
+                "referee": "L. Lobo",
+                "timezone": "UTC",
+                "date": "2024-05-25T00:15:00+00:00",
+                "timestamp": 1716596100,
+                "periods": {
+                    "first": 1716596100,
+                    "second": 1716599700
+                },
+                "venue": {
+                    "id": 45,
+                    "name": "Estadio Julio C\u00e9sar Villagra",
+                    "city": "Ciudad de C\u00f3rdoba, Provincia de C\u00f3rdoba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 440,
+                    "name": "Belgrano Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/440.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1065,
+                    "name": "Central Cordoba de Santiago",
+                    "logo": "https://media.api-sports.io/football/teams/1065.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158689,
+                "referee": "Leandro Rey Hilfer, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-25T18:00:00+00:00",
+                "timestamp": 1716660000,
+                "periods": {
+                    "first": 1716660000,
+                    "second": 1716663600
+                },
+                "venue": {
+                    "id": 37,
+                    "name": "Estadio Diego Armando Maradona",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 435,
+                    "name": "River Plate",
+                    "logo": "https://media.api-sports.io/football/teams/435.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158690,
+                "referee": "Yael Falcon Perez, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-24T22:00:00+00:00",
+                "timestamp": 1716588000,
+                "periods": {
+                    "first": 1716588000,
+                    "second": 1716591600
+                },
+                "venue": {
+                    "id": 112,
+                    "name": "Estadio Jos\u00e9 Dellagiovanna",
+                    "city": "San Fernando, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 452,
+                    "name": "Tigre",
+                    "logo": "https://media.api-sports.io/football/teams/452.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158691,
+                "referee": "Nicolas Lamolina, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-24T18:30:00+00:00",
+                "timestamp": 1716575400,
+                "periods": {
+                    "first": 1716575400,
+                    "second": 1716579000
+                },
+                "venue": {
+                    "id": 66,
+                    "name": "Estadio Guillermo Laza",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 437,
+                    "name": "Rosario Central",
+                    "logo": "https://media.api-sports.io/football/teams/437.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158692,
+                "referee": "A. Merlos",
+                "timezone": "UTC",
+                "date": "2024-05-25T00:15:00+00:00",
+                "timestamp": 1716596100,
+                "periods": {
+                    "first": 1716596100,
+                    "second": 1716599700
+                },
+                "venue": {
+                    "id": 88,
+                    "name": "Estadio Ciudad de Lan\u00fas - N\u00e9stor D\u00edaz P\u00e9rez",
+                    "city": "Lan\u00fas, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 446,
+                    "name": "Lanus",
+                    "logo": "https://media.api-sports.io/football/teams/446.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 450,
+                    "name": "Estudiantes L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/450.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158693,
+                "referee": "N. Arasa",
+                "timezone": "UTC",
+                "date": "2024-05-25T20:30:00+00:00",
+                "timestamp": 1716669000,
+                "periods": {
+                    "first": 1716669000,
+                    "second": 1716672600
+                },
+                "venue": {
+                    "id": 80,
+                    "name": "Estadio Feliciano Gambarte",
+                    "city": "Godoy Cruz, Provincia de Mendoza"
+                },
+                "status": {
+                    "long": "Match Postponed",
+                    "short": "PST",
+                    "elapsed": null
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 439,
+                    "name": "Godoy Cruz",
+                    "logo": "https://media.api-sports.io/football/teams/439.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 460,
+                    "name": "San Lorenzo",
+                    "logo": "https://media.api-sports.io/football/teams/460.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": null,
+                "away": null
+            },
+            "score": {
+                "halftime": {
+                    "home": null,
+                    "away": null
+                },
+                "fulltime": {
+                    "home": null,
+                    "away": null
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158694,
+                "referee": "Facundo Tello, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-26T20:30:00+00:00",
+                "timestamp": 1716755400,
+                "periods": {
+                    "first": 1716755400,
+                    "second": 1716759000
+                },
+                "venue": {
+                    "id": 107,
+                    "name": "Estadio Eva Per\u00f3n de Jun\u00edn",
+                    "city": "Jun\u00edn, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 473,
+                    "name": "Independ. Rivadavia",
+                    "logo": "https://media.api-sports.io/football/teams/473.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158695,
+                "referee": "Nicolas Ramirez, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-27T22:00:00+00:00",
+                "timestamp": 1716847200,
+                "periods": {
+                    "first": 1716847200,
+                    "second": 1716850800
+                },
+                "venue": {
+                    "id": 1933,
+                    "name": "Estadio 15 de Abril",
+                    "city": "Ciudad de Santa Fe, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 441,
+                    "name": "Union Santa Fe",
+                    "logo": "https://media.api-sports.io/football/teams/441.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2432,
+                    "name": "Barracas Central",
+                    "logo": "https://media.api-sports.io/football/teams/2432.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158696,
+                "referee": "Ariel Penel, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-26T18:30:00+00:00",
+                "timestamp": 1716748200,
+                "periods": {
+                    "first": 1716748200,
+                    "second": 1716751800
+                },
+                "venue": {
+                    "id": 82,
+                    "name": "Estadio Tom\u00e1s Adolfo Duc\u00f3",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 445,
+                    "name": "Huracan",
+                    "logo": "https://media.api-sports.io/football/teams/445.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 478,
+                    "name": "Instituto Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/478.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158697,
+                "referee": "Sebastian Zunino, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-26T20:45:00+00:00",
+                "timestamp": 1716756300,
+                "periods": {
+                    "first": 1716756300,
+                    "second": 1716759900
+                },
+                "venue": {
+                    "id": 77,
+                    "name": "Estadio Juan Carmelo Zerillo",
+                    "city": "La Plata, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 434,
+                    "name": "Gimnasia L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/434.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 449,
+                    "name": "Banfield",
+                    "logo": "https://media.api-sports.io/football/teams/449.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158698,
+                "referee": "Pablo Echavarria, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-25T20:30:00+00:00",
+                "timestamp": 1716669000,
+                "periods": {
+                    "first": 1716669000,
+                    "second": 1716672600
+                },
+                "venue": {
+                    "id": 93,
+                    "name": "Estadio Marcelo Alberto Bielsa",
+                    "city": "Rosario, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 457,
+                    "name": "Newells Old Boys",
+                    "logo": "https://media.api-sports.io/football/teams/457.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 442,
+                    "name": "Defensa Y Justicia",
+                    "logo": "https://media.api-sports.io/football/teams/442.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158699,
+                "referee": "Dario Herrera, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-26T23:00:00+00:00",
+                "timestamp": 1716764400,
+                "periods": {
+                    "first": 1716764400,
+                    "second": 1716768000
+                },
+                "venue": {
+                    "id": 7131,
+                    "name": "Estadio Libertadores de Am\u00e9rica",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 453,
+                    "name": "Independiente",
+                    "logo": "https://media.api-sports.io/football/teams/453.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 438,
+                    "name": "Velez Sarsfield",
+                    "logo": "https://media.api-sports.io/football/teams/438.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158700,
+                "referee": "Silvio Trucco, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-28T00:00:00+00:00",
+                "timestamp": 1716854400,
+                "periods": {
+                    "first": 1716854400,
+                    "second": 1716858000
+                },
+                "venue": {
+                    "id": 42,
+                    "name": "Estadio Monumental Presidente Jos\u00e9 Fierro",
+                    "city": "San Miguel de Tucum\u00e1n, Provincia de Tucum\u00e1n"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 1064,
+                    "name": "Platense",
+                    "logo": "https://media.api-sports.io/football/teams/1064.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158701,
+                "referee": "Hernan Mastrangelo, Argentina",
+                "timezone": "UTC",
+                "date": "2024-05-25T23:00:00+00:00",
+                "timestamp": 1716678000,
+                "periods": {
+                    "first": 1716678000,
+                    "second": 1716681600
+                },
+                "venue": {
+                    "id": 46,
+                    "name": "Estadio Alberto Jos\u00e9 Armando",
+                    "city": "Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 3"
+            },
+            "teams": {
+                "home": {
+                    "id": 451,
+                    "name": "Boca Juniors",
+                    "logo": "https://media.api-sports.io/football/teams/451.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158702,
+                "referee": "Carlos Andres Gariano, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-02T21:00:00+00:00",
+                "timestamp": 1717362000,
+                "periods": {
+                    "first": 1717362000,
+                    "second": 1717365600
+                },
+                "venue": {
+                    "id": 2997,
+                    "name": "Estadio Alfredo Terrera",
+                    "city": "Santiago del Estero, Provincia de Santiago del Est"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 1065,
+                    "name": "Central Cordoba de Santiago",
+                    "logo": "https://media.api-sports.io/football/teams/1065.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 4
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 4
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158703,
+                "referee": "Nicolas Ramirez, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-02T17:30:00+00:00",
+                "timestamp": 1717349400,
+                "periods": {
+                    "first": 1717349400,
+                    "second": 1717353000
+                },
+                "venue": {
+                    "id": 97,
+                    "name": "Estadio Ciudad de Vicente L\u00f3pez",
+                    "city": "Vicente L\u00f3pez, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 1064,
+                    "name": "Platense",
+                    "logo": "https://media.api-sports.io/football/teams/1064.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 451,
+                    "name": "Boca Juniors",
+                    "logo": "https://media.api-sports.io/football/teams/451.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158704,
+                "referee": "Nicolas Lamolina, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-01T23:15:00+00:00",
+                "timestamp": 1717283700,
+                "periods": {
+                    "first": 1717283700,
+                    "second": 1717287300
+                },
+                "venue": {
+                    "id": 115,
+                    "name": "Estadio Jos\u00e9 Amalfitani",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 438,
+                    "name": "Velez Sarsfield",
+                    "logo": "https://media.api-sports.io/football/teams/438.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158705,
+                "referee": "Fernando Rapallini, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-04T00:15:00+00:00",
+                "timestamp": 1717460100,
+                "periods": {
+                    "first": 1717460100,
+                    "second": 1717463700
+                },
+                "venue": {
+                    "id": 59,
+                    "name": "Estadio Norberto Tito Tomaghello",
+                    "city": "Florencio Varela, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 442,
+                    "name": "Defensa Y Justicia",
+                    "logo": "https://media.api-sports.io/football/teams/442.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 453,
+                    "name": "Independiente",
+                    "logo": "https://media.api-sports.io/football/teams/453.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158706,
+                "referee": "Leandro Rey Hilfer, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-04T23:00:00+00:00",
+                "timestamp": 1717542000,
+                "periods": {
+                    "first": 1717542000,
+                    "second": 1717545600
+                },
+                "venue": {
+                    "id": 43,
+                    "name": "Estadio Florencio Sol\u00e1",
+                    "city": "Lomas de Zamora, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 449,
+                    "name": "Banfield",
+                    "logo": "https://media.api-sports.io/football/teams/449.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 457,
+                    "name": "Newells Old Boys",
+                    "logo": "https://media.api-sports.io/football/teams/457.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158707,
+                "referee": "Hernan Mastrangelo, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-02T23:15:00+00:00",
+                "timestamp": 1717370100,
+                "periods": {
+                    "first": 1717370100,
+                    "second": 1717373700
+                },
+                "venue": {
+                    "id": 84,
+                    "name": "Estadio Juan Domingo Per\u00f3n",
+                    "city": "Ciudad de C\u00f3rdoba, Provincia de C\u00f3rdoba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 478,
+                    "name": "Instituto Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/478.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 434,
+                    "name": "Gimnasia L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/434.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158708,
+                "referee": "Andres Merlos, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-04T18:00:00+00:00",
+                "timestamp": 1717524000,
+                "periods": {
+                    "first": 1717524000,
+                    "second": 1717527600
+                },
+                "venue": {
+                    "id": 44,
+                    "name": "Estadio Claudio Fabi\u00e1n Tapia",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 2432,
+                    "name": "Barracas Central",
+                    "logo": "https://media.api-sports.io/football/teams/2432.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 445,
+                    "name": "Huracan",
+                    "logo": "https://media.api-sports.io/football/teams/445.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158709,
+                "referee": "Luis Lobo Medina, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-04T23:00:00+00:00",
+                "timestamp": 1717542000,
+                "periods": {
+                    "first": 1717542000,
+                    "second": 1717545600
+                },
+                "venue": {
+                    "id": 83,
+                    "name": "Estadio Juan Bautista Gargantini",
+                    "city": "Mendoza, Provincia de Mendoza"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 473,
+                    "name": "Independ. Rivadavia",
+                    "logo": "https://media.api-sports.io/football/teams/473.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 441,
+                    "name": "Union Santa Fe",
+                    "logo": "https://media.api-sports.io/football/teams/441.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158710,
+                "referee": "Fernando Espinoza, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-03T22:00:00+00:00",
+                "timestamp": 1717452000,
+                "periods": {
+                    "first": 1717452000,
+                    "second": 1717455600
+                },
+                "venue": {
+                    "id": 103,
+                    "name": "Estadio Pedro Bidega\u00edn",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 460,
+                    "name": "San Lorenzo",
+                    "logo": "https://media.api-sports.io/football/teams/460.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158711,
+                "referee": "Pablo Echavarria, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-04T00:15:00+00:00",
+                "timestamp": 1717460100,
+                "periods": {
+                    "first": 1717460100,
+                    "second": 1717463700
+                },
+                "venue": {
+                    "id": 12716,
+                    "name": "Estadio Jorge Luis Hirschi",
+                    "city": "La Plata, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 450,
+                    "name": "Estudiantes L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/450.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 439,
+                    "name": "Godoy Cruz",
+                    "logo": "https://media.api-sports.io/football/teams/439.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158712,
+                "referee": "Sebastian Nicolas Martinez, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-02T21:00:00+00:00",
+                "timestamp": 1717362000,
+                "periods": {
+                    "first": 1717362000,
+                    "second": 1717365600
+                },
+                "venue": {
+                    "id": 19391,
+                    "name": "Estadio Gigante de Arroyito",
+                    "city": "Rosario, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 437,
+                    "name": "Rosario Central",
+                    "logo": "https://media.api-sports.io/football/teams/437.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 446,
+                    "name": "Lanus",
+                    "logo": "https://media.api-sports.io/football/teams/446.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158713,
+                "referee": "Fernando Echenique, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-01T21:00:00+00:00",
+                "timestamp": 1717275600,
+                "periods": {
+                    "first": 1717275600,
+                    "second": 1717279200
+                },
+                "venue": {
+                    "id": 99,
+                    "name": "Estadio Presidente Juan Domingo Per\u00f3n",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158714,
+                "referee": "Nazareno Arasa, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-02T23:15:00+00:00",
+                "timestamp": 1717370100,
+                "periods": {
+                    "first": 1717370100,
+                    "second": 1717373700
+                },
+                "venue": {
+                    "id": 19570,
+                    "name": "Estadio M\u00e2s Monumental",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 435,
+                    "name": "River Plate",
+                    "logo": "https://media.api-sports.io/football/teams/435.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 452,
+                    "name": "Tigre",
+                    "logo": "https://media.api-sports.io/football/teams/452.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 3,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 3,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158715,
+                "referee": "Facundo Tello, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-01T23:15:00+00:00",
+                "timestamp": 1717283700,
+                "periods": {
+                    "first": 1717283700,
+                    "second": 1717287300
+                },
+                "venue": {
+                    "id": 45,
+                    "name": "Estadio Julio C\u00e9sar Villagra",
+                    "city": "Ciudad de C\u00f3rdoba, Provincia de C\u00f3rdoba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 4"
+            },
+            "teams": {
+                "home": {
+                    "id": 440,
+                    "name": "Belgrano Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/440.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158716,
+                "referee": "Nazareno Arasa, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-12T22:00:00+00:00",
+                "timestamp": 1718229600,
+                "periods": {
+                    "first": 1718229600,
+                    "second": 1718233200
+                },
+                "venue": {
+                    "id": 37,
+                    "name": "Estadio Diego Armando Maradona",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 458,
+                    "name": "Argentinos JRS",
+                    "logo": "https://media.api-sports.io/football/teams/458.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1065,
+                    "name": "Central Cordoba de Santiago",
+                    "logo": "https://media.api-sports.io/football/teams/1065.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158717,
+                "referee": "Sebastian Zunino, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-13T22:00:00+00:00",
+                "timestamp": 1718316000,
+                "periods": {
+                    "first": 1718316000,
+                    "second": 1718319600
+                },
+                "venue": {
+                    "id": 112,
+                    "name": "Estadio Jos\u00e9 Dellagiovanna",
+                    "city": "San Fernando, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 452,
+                    "name": "Tigre",
+                    "logo": "https://media.api-sports.io/football/teams/452.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 440,
+                    "name": "Belgrano Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/440.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158718,
+                "referee": "Hernan Mastrangelo, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-13T18:00:00+00:00",
+                "timestamp": 1718301600,
+                "periods": {
+                    "first": 1718301600,
+                    "second": 1718305200
+                },
+                "venue": {
+                    "id": 66,
+                    "name": "Estadio Guillermo Laza",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 476,
+                    "name": "Deportivo Riestra",
+                    "logo": "https://media.api-sports.io/football/teams/476.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 435,
+                    "name": "River Plate",
+                    "logo": "https://media.api-sports.io/football/teams/435.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158719,
+                "referee": "L. Rey Hilfer",
+                "timezone": "UTC",
+                "date": "2024-06-14T00:15:00+00:00",
+                "timestamp": 1718324100,
+                "periods": {
+                    "first": 1718324100,
+                    "second": 1718327700
+                },
+                "venue": {
+                    "id": 88,
+                    "name": "Estadio Ciudad de Lan\u00fas - N\u00e9stor D\u00edaz P\u00e9rez",
+                    "city": "Lan\u00fas, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 446,
+                    "name": "Lanus",
+                    "logo": "https://media.api-sports.io/football/teams/446.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 436,
+                    "name": "Racing Club",
+                    "logo": "https://media.api-sports.io/football/teams/436.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158720,
+                "referee": "Ariel Penel, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-12T20:00:00+00:00",
+                "timestamp": 1718222400,
+                "periods": {
+                    "first": 1718222400,
+                    "second": 1718226000
+                },
+                "venue": {
+                    "id": 80,
+                    "name": "Estadio Feliciano Gambarte",
+                    "city": "Godoy Cruz, Provincia de Mendoza"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 439,
+                    "name": "Godoy Cruz",
+                    "logo": "https://media.api-sports.io/football/teams/439.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 437,
+                    "name": "Rosario Central",
+                    "logo": "https://media.api-sports.io/football/teams/437.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158721,
+                "referee": "Jorge Balino, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-13T22:00:00+00:00",
+                "timestamp": 1718316000,
+                "periods": {
+                    "first": 1718316000,
+                    "second": 1718319600
+                },
+                "venue": {
+                    "id": 107,
+                    "name": "Estadio Eva Per\u00f3n de Jun\u00edn",
+                    "city": "Jun\u00edn, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 474,
+                    "name": "Sarmiento Junin",
+                    "logo": "https://media.api-sports.io/football/teams/474.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 450,
+                    "name": "Estudiantes L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/450.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158722,
+                "referee": "Andres Merlos, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-15T19:00:00+00:00",
+                "timestamp": 1718478000,
+                "periods": {
+                    "first": 1718478000,
+                    "second": 1718481600
+                },
+                "venue": {
+                    "id": 1933,
+                    "name": "Estadio 15 de Abril",
+                    "city": "Ciudad de Santa Fe, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 441,
+                    "name": "Union Santa Fe",
+                    "logo": "https://media.api-sports.io/football/teams/441.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 460,
+                    "name": "San Lorenzo",
+                    "logo": "https://media.api-sports.io/football/teams/460.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158723,
+                "referee": "Fernando Rapallini, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-15T21:00:00+00:00",
+                "timestamp": 1718485200,
+                "periods": {
+                    "first": 1718485200,
+                    "second": 1718488800
+                },
+                "venue": {
+                    "id": 82,
+                    "name": "Estadio Tom\u00e1s Adolfo Duc\u00f3",
+                    "city": "Capital Federal, Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 445,
+                    "name": "Huracan",
+                    "logo": "https://media.api-sports.io/football/teams/445.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 473,
+                    "name": "Independ. Rivadavia",
+                    "logo": "https://media.api-sports.io/football/teams/473.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158724,
+                "referee": "C. Gariano",
+                "timezone": "UTC",
+                "date": "2024-06-13T00:15:00+00:00",
+                "timestamp": 1718237700,
+                "periods": {
+                    "first": 1718237700,
+                    "second": 1718241300
+                },
+                "venue": {
+                    "id": 77,
+                    "name": "Estadio Juan Carmelo Zerillo",
+                    "city": "La Plata, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 434,
+                    "name": "Gimnasia L.P.",
+                    "logo": "https://media.api-sports.io/football/teams/434.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 2432,
+                    "name": "Barracas Central",
+                    "logo": "https://media.api-sports.io/football/teams/2432.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158725,
+                "referee": "N. Lamolina",
+                "timezone": "UTC",
+                "date": "2024-06-14T00:15:00+00:00",
+                "timestamp": 1718324100,
+                "periods": {
+                    "first": 1718324100,
+                    "second": 1718327700
+                },
+                "venue": {
+                    "id": 93,
+                    "name": "Estadio Marcelo Alberto Bielsa",
+                    "city": "Rosario, Provincia de Santa Fe"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 457,
+                    "name": "Newells Old Boys",
+                    "logo": "https://media.api-sports.io/football/teams/457.png",
+                    "winner": false
+                },
+                "away": {
+                    "id": 478,
+                    "name": "Instituto Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/478.png",
+                    "winner": true
+                }
+            },
+            "goals": {
+                "home": 0,
+                "away": 2
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 0,
+                    "away": 2
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158726,
+                "referee": "N. Ram\u00edrez",
+                "timezone": "UTC",
+                "date": "2024-06-13T00:15:00+00:00",
+                "timestamp": 1718237700,
+                "periods": {
+                    "first": 1718237700,
+                    "second": 1718241300
+                },
+                "venue": {
+                    "id": 7131,
+                    "name": "Estadio Libertadores de Am\u00e9rica",
+                    "city": "Avellaneda, Provincia de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 453,
+                    "name": "Independiente",
+                    "logo": "https://media.api-sports.io/football/teams/453.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 449,
+                    "name": "Banfield",
+                    "logo": "https://media.api-sports.io/football/teams/449.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158727,
+                "referee": "Pablo Dovalo, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-15T23:30:00+00:00",
+                "timestamp": 1718494200,
+                "periods": {
+                    "first": 1718494200,
+                    "second": 1718497800
+                },
+                "venue": {
+                    "id": 42,
+                    "name": "Estadio Monumental Presidente Jos\u00e9 Fierro",
+                    "city": "San Miguel de Tucum\u00e1n, Provincia de Tucum\u00e1n"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 455,
+                    "name": "Atletico Tucuman",
+                    "logo": "https://media.api-sports.io/football/teams/455.png",
+                    "winner": null
+                },
+                "away": {
+                    "id": 442,
+                    "name": "Defensa Y Justicia",
+                    "logo": "https://media.api-sports.io/football/teams/442.png",
+                    "winner": null
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158728,
+                "referee": "Fernando Echenique, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-14T22:00:00+00:00",
+                "timestamp": 1718402400,
+                "periods": {
+                    "first": 1718402400,
+                    "second": 1718406000
+                },
+                "venue": {
+                    "id": 46,
+                    "name": "Estadio Alberto Jos\u00e9 Armando",
+                    "city": "Ciudad de Buenos Aires"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 451,
+                    "name": "Boca Juniors",
+                    "logo": "https://media.api-sports.io/football/teams/451.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 438,
+                    "name": "Velez Sarsfield",
+                    "logo": "https://media.api-sports.io/football/teams/438.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 1,
+                "away": 0
+            },
+            "score": {
+                "halftime": {
+                    "home": 0,
+                    "away": 0
+                },
+                "fulltime": {
+                    "home": 1,
+                    "away": 0
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        },
+        {
+            "fixture": {
+                "id": 1158729,
+                "referee": "Fernando Espinoza, Argentina",
+                "timezone": "UTC",
+                "date": "2024-06-14T22:00:00+00:00",
+                "timestamp": 1718402400,
+                "periods": {
+                    "first": 1718402400,
+                    "second": 1718406000
+                },
+                "venue": {
+                    "id": 110,
+                    "name": "Estadio Mario Alberto Kempes",
+                    "city": "Ciudad de C\u00f3rdoba, Provincia de C\u00f3rdoba"
+                },
+                "status": {
+                    "long": "Match Finished",
+                    "short": "FT",
+                    "elapsed": 90
+                }
+            },
+            "league": {
+                "id": 128,
+                "name": "Liga Profesional Argentina",
+                "country": "Argentina",
+                "logo": "https://media.api-sports.io/football/leagues/128.png",
+                "flag": "https://media.api-sports.io/flags/ar.svg",
+                "season": 2024,
+                "round": "2nd Phase - 5"
+            },
+            "teams": {
+                "home": {
+                    "id": 456,
+                    "name": "Talleres Cordoba",
+                    "logo": "https://media.api-sports.io/football/teams/456.png",
+                    "winner": true
+                },
+                "away": {
+                    "id": 1064,
+                    "name": "Platense",
+                    "logo": "https://media.api-sports.io/football/teams/1064.png",
+                    "winner": false
+                }
+            },
+            "goals": {
+                "home": 2,
+                "away": 1
+            },
+            "score": {
+                "halftime": {
+                    "home": 1,
+                    "away": 1
+                },
+                "fulltime": {
+                    "home": 2,
+                    "away": 1
+                },
+                "extratime": {
+                    "home": null,
+                    "away": null
+                },
+                "penalty": {
+                    "home": null,
+                    "away": null
+                }
+            }
+        }
+    ]
+}

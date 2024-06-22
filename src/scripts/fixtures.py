@@ -15,7 +15,7 @@ api_key = os.getenv("API_KEY")
 
 
 from_date = "2023-12-31"
-to_date = "2024-06-17"
+to_date = "2024-06-22"
 
 api_client = APIClient(api_key = api_key)
 DatabaseConnector.create_dir_and_db("data")

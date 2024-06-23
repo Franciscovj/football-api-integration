@@ -28,3 +28,5 @@ source env/bin/activate
 
 pip install -r requirements.txt
 
+## Créditos
+Desenvolvido por [Francisco Vito Júnior](https://github.com/Franciscovj).

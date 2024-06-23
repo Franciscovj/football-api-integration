@@ -14,6 +14,9 @@ Certifique-se de ter o Python instalado. Este projeto foi testado com Python 3.x
 
 É altamente recomendado criar um ambiente virtual para isolar as dependências do projeto. Use os comandos abaixo para criar e ativar um ambiente virtual:
 
+## Créditos
+Desenvolvido por [Francisco Vito Júnior](https://github.com/Franciscovj).
+
 ```sh
 # Criar o ambiente virtual
 python -m venv env
@@ -28,5 +31,4 @@ source env/bin/activate
 
 pip install -r requirements.txt
 
-## Créditos
-Desenvolvido por [Francisco Vito Júnior](https://github.com/Franciscovj).
+

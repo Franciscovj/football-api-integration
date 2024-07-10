@@ -2,7 +2,6 @@ import sys
 sys.path.append('./src')
 import pandas as pd
 import sqlite3
-from modules.data_handling import DataHandler
 
 conn = sqlite3.connect("data/api_futebol.db")
 

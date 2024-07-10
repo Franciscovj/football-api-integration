@@ -19,13 +19,15 @@ class APIClient:
 
     def fetch_leagues(self):
         url = "https://api-football-v1.p.rapidapi.com/v3/leagues"
-
         response = requests.get(url, headers=self.headers)
         self.save_response(response, "ligas_id")
 
+    def fetch_stats(self, fixture_id):
+        url = f"https://api-football-v1.p.rapidapi.com/v3/fixtures/statistics?fixture={fixture_id}"
+        response = requests.get(url, headers=self.headers)
+        return response
         
-        
-        
+
     def save_response(self, response, filename):
         try:
             response.raise_for_status()
@@ -40,3 +42,10 @@ class APIClient:
             print(f"HTTP error occurred: {err}")
         except Exception as e:
             print(f"An error occurred: {e}")
+
+# Exemplo de uso:
+# api_key = "sua_api_key_aqui"
+# client = APIClient(api_key)
+# client.fetch_fixtures(league_id, "2023-01-01", "2023-12-31", 2023)
+# client.fetch_leagues()
+# client.fetch_stats(fixture_id)
